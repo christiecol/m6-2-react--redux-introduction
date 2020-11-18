@@ -1,9 +1,9 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 const Button = styled.button`
   position: relative;
   display: block;
-  width: 100%;
+  width: 50%;
   border-radius: 12px;
   background: #ff406e;
   color: white;
